@@ -10,3 +10,5 @@ we computed earlier. Now we will import Multinomialnb. This typically requires i
 Basically, here we are implementing Naïve Bayes to predict if the messages are spam or ham. At last, we run the model for test size=0.2, and then through pipelining we predict spam 
 or ham for the whole model. "Pipelines have functionalities namely fit/transform/predict, by this we can fit the entire pipeline to the training data and change to the test data 
 without doing it independently.
+
+Before running, please import pandas, numpy, seaborn, matplotlib, nltk or run the project on google collab. 
